@@ -5,7 +5,7 @@ import java.util.*;
  */
 
  
- public class boodschappen {
+ public class Boodschappen {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
