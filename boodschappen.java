@@ -12,7 +12,7 @@ import java.util.*;
 
         int boodschappenlijst[] = new int[3];
 
-        int total = 0;
+        int totaal = 0;
         
         System.out.print("Hoeveel appels ? ");
         int appels = input.nextInt();
