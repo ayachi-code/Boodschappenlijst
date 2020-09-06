@@ -24,12 +24,12 @@ import java.util.*;
         int sinasappels = input.nextInt();
         boodschappenlijst[2] = sinasappels;
 
-        total = boodschappenlijst[0] + boodschappenlijst[1] + boodschappenlijst[2];
+        totaal = boodschappenlijst[0] + boodschappenlijst[1] + boodschappenlijst[2];
         for (int i=0; i <boodschappenlijst.length; i++) {
             System.out.println(boodschappenlijst[i]);
         }
         System.out.println("-------------- +");
-        System.out.println(total);
+        System.out.println(totaal);
 
     }
 }
